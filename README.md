@@ -77,6 +77,7 @@ fashionapp-backend
 ├── server.js
 └── package.json
 ```
-Desenvolvedor
+## Desenvolvedor:
+Tamirys Maria
 
 Projeto desenvolvido para fins acadêmicos.
